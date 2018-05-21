@@ -1,0 +1,22 @@
+.Product{
+  background-color: #D34735;
+  height: 30vh;
+  width: 40vw;
+  overflow: hidden;
+  margin: 2vh 2vh;
+}
+img{
+  height: 20vh;
+  width: auto;
+}
+.product-buttons{
+  background-color: #3AD886;
+}
+.product-buttons-row{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2vh;
+}
+.product-column{
+  margin-top: 15vh;
+}

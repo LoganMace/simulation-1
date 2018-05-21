@@ -1,0 +1,36 @@
+.form{
+  display: flex;
+
+}
+.inputs{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #3AD886;
+  width: 40vw;
+  height: 30vh;
+  position: fixed;
+  right: 5vw;
+  top: 14vh;
+  border-radius: 5px;
+}
+.input-titles{
+
+}
+input{
+  width: 93%;
+}
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-bottom: 2vh;
+}
+button{
+  background-color: #ED6B5A;
+  border-radius: 5px;
+  border-style: none;
+  line-height: 4vh;
+  font-weight: bolder;
+}

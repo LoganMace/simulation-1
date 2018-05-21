@@ -1,0 +1,1 @@
+INSERT INTO inventory (productName, price, imageUrl) VALUES ($1, $2, $3);
